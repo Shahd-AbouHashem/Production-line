@@ -14,10 +14,9 @@ Factory Simulation using FACTORY I/O for 3D visuals and Siemens TIA Portal with 
 • HMI Design: Real-time control panel including counters, warning messages, and interactive start/stop/reset functionality.
 
 
-## Once the target number of assembled products was reached, the system automatically shut down, ensuring efficiency and control from start to finish.
+Once the target number of assembled products was reached, the system automatically shut down, ensuring efficiency and control from start to finish.
 
-[Drive Link] 
-
-## Author
+## Project Team
 Shahd Mohsen AbouHashem
+
 Ibrahim Mohamed Ibrahim 
