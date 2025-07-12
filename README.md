@@ -1,5 +1,5 @@
 # Industrial Automation
-# Production-line
+# Production line Factory Simulation
 Factory Simulation using FACTORY I/O for 3D visuals and Siemens TIA Portal with Ladder Logic for control.
 
 ## 🚀 Key Features of Our Production Line:
